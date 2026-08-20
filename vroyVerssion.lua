@@ -354,7 +354,7 @@ local function u162(p54)
                 'HonnyDezz',
                 'Y crackeado por:',
                 'V.Roy',
-                'Szoo discord.',
+                'Szoo discord https://discord.gg/nDPePc8pjc.',
             })
             local v62 = 10
 
